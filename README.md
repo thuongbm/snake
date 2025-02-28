@@ -1,3 +1,3 @@
 # snake
-snake  game
-\n Clone dự án: https://github.com/thuongbm/snake.git
+snake  game <br>
+Clone dự án: https://github.com/thuongbm/snake.git
